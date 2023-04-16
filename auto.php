@@ -1,6 +1,6 @@
 <?php
 
-// memanggil file wp-load.php untuk mengakses fungsi WordPress
+// memanggil file rss_xml.php untuk mengakses fungsi WordPress
 require_once( dirname( __FILE__ ) . 'rss_xml.php' );
 
 // mengatur interval waktu untuk eksekusi kode (dalam detik)
